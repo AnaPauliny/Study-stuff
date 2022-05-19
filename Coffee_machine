@@ -91,7 +91,7 @@ def automat():
                 subtract_resources(order)
                 add_money(drink_cost)
                 print(f"Here is your {order}. Enjoy!")
-                automat()
+               
 
 
 automat()
